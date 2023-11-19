@@ -43,7 +43,7 @@
 
 
 ### Log:
-- Here, the employee can see:
+- The employee can see:
             
   - all the reservations created
   - and all current and previous guests.
